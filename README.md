@@ -6,7 +6,7 @@ A Cloud FinOps / DevOps / Engineering Manager
 
 ## Experience
 
-<img align="right" alt="AWS" src="https://github.com/igan/cv/assets/1929817/9a7443c2-953c-4f5a-a57f-ad8d608eefb0" />
+<img align="left" alt="AWS" src="https://github.com/igan/cv/assets/1929817/9a7443c2-953c-4f5a-a57f-ad8d608eefb0" />
 
 ### Amazon Web Services
 
@@ -15,7 +15,7 @@ Feb 2021 - Present
 
 * FinOps, Infrastructure, Analytics, Machine Learning.
 
-<img align="right" alt="AWS" src="https://github.com/igan/cv/assets/1929817/49bbbf40-3f98-404d-855c-2628deea0e99" />
+<img align="left" alt="AWS" src="https://github.com/igan/cv/assets/1929817/49bbbf40-3f98-404d-855c-2628deea0e99" />
 
 ### Ingenico Group
 5 yrs 3 mos
